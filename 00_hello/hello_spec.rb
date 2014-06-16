@@ -12,7 +12,7 @@ require "hello.rb"
 # $ touch hello.rb 
 
 # Now if we run rake again, it will complain about "a undefined local variable or method `hello'"
-# Let's keep this in mind while we go through the next little bit of code.
+# Let's keep this isn mind while we go through the next little bit of code.
 
 # The line below is not important to us (line #18),
 describe "the hello function" do
