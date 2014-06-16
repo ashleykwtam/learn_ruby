@@ -4,7 +4,7 @@
 # $ touch temperature.rb
 require "temperature.rb"
 
-# Now maybe we can talk more about the lines we ignored last problem.
+# Now  maybe we can talk more about the lines we ignored last problem.
 # describe is a method that takes a sting and a do-end block.
 # The method is given to use by RSpec.
 # The string should describe what is being tested in the do-end block. 
